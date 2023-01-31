@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.div {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+}
+
+.div-text {
+    text-align: center;
+    padding-top: 45px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
